@@ -1,0 +1,37 @@
+ *{
+    color: white;
+    font-size: 25px;
+     margin-top: 8px; 
+}
+#Navbar {
+    height: 60px;
+    background-color: #0f1111;
+    border: 4px solid white;
+    
+}
+#logo, button {
+    color: #f08804;
+
+}
+#logo {
+    margin-left: 10px;
+}
+a {
+    margin-right: 100px;
+    text-decoration: none;
+}
+input {
+    color: black;
+}
+.ContentBox {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 2px solid black;
+    display: inline-block;
+} 
+footer{
+    background-color: #0f1111;
+    text-align: center;
+    
+}

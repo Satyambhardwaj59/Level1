@@ -1,0 +1,13 @@
+header {
+    background-color: #0f1111;
+    height: 60px;
+    border: 4px solid white;
+   
+    
+}
+#logo, button {
+    color: #f08804;
+}
+a {
+    text-decoration:none;
+}
